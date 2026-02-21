@@ -11,6 +11,7 @@
   margin: 10px;
   font-size: 30px;
   outline-color: rgb(141, 138, 138);
+  border: none;
 }
 #btn_container{
   display: flex;
